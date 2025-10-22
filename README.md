@@ -31,7 +31,6 @@ rag\_with\_groq\_langchain/
 ├── data/                  \# Folder for documents / datasets
 ├── chroma\_db/             \# Chroma vector database storage
 ├── scripts/               \# Utility scripts (embedding, preprocessing)
-└── logs/                  \# Log files
 
 ````
 
