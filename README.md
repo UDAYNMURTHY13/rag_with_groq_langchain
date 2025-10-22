@@ -1,4 +1,3 @@
-```markdown
 # RAG with Groq & LangChain
 
 A **Retrieval-Augmented Generation (RAG)** system leveraging **LangChain**, **ChromaDB**, and **Groq** for fast and accurate question-answering over custom documents.
@@ -124,5 +123,4 @@ Feel free to fork, raise issues, or submit pull requests.
 
 This project is licensed under the **MIT License**.
 
-```
-```
+
